@@ -1,0 +1,3 @@
+from .generaldistribution import Distribution
+from .gaussian import Gaussian
+from .binomial import Binomial
